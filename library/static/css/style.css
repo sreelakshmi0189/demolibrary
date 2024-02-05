@@ -1,0 +1,12 @@
+body
+{
+background-color:pink;
+color:red;
+}
+.navbar-light .navbar-nav .nav-link,.navbar-link .navbar-brand{
+color:red;
+font-weight:bold;
+font-size:22px;
+}
+.form-control{
+width:500px;}
